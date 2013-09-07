@@ -3,12 +3,15 @@ layout: ots
 title: README 
 ---
 
-This is a friendly how-to for contributors to the Html and Css workshop
+This is a friendly how-to for contributors to the Advanced Css workshop
 at OpenTechSchool. 
 About the course:
 
-An Html and css basic workshop for beginners that never write Html/css before and 
-wnat to know how to start.
+Advanced Css workshop is for every body with aleady some basic css skill, 
+willing to learn more, be update and try the new techniques.
+
+This workshop was made as a follower of 
+[Html and Css for beginners](https://github.com/OpenTechSchool/html-css-beginners)
 
 # Class format
 
@@ -23,10 +26,10 @@ additional topics which are entirely optional.
 
 A class schedule looks like this:
 
-    1100 - Students still arriving, writing name tags, setting up laptops.
-    1230 - Introductions, wifi instructions and location of coursework.
-    1235 - Students learn stuff.
-    1800 - Thankyous, maybe demonstrations.
+    ... - Students still arriving, writing name tags, setting up laptops.
+    ... - Introductions, wifi instructions and location of coursework.
+    ... - Students learn stuff.
+    ... - Thankyous, maybe demonstrations.
 
 
 # Author Guide
